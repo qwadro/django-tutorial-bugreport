@@ -1,4 +1,4 @@
 django-tutorial-bugreport
 =========================
 
-Tutorial Django project 
+Tutorial Django project by Mishgun
